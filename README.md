@@ -42,19 +42,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-## 🚀 Projects
-
-### CV Builder
-A web application to create professional resumes.
-
-### Portfolio Website
-Personal portfolio showcasing skills and projects.
-
-## 🎓 Education
-B.Tech in Computer Science Engineering
-Anurag Engineering College
-CGPA: 8.5
-
-## 🏆 Certifications
-- Front End Development
-- Python Basics
