@@ -1,16 +1,17 @@
-💫 Hi 👋, I'm Kavyakola 
-**Studing Engineering in Anurag Engineering College Kodad Finished 2nd Year
+<h1 align="center">✨ Hi 👋, I'm Kavya Kola</h1>
 
-Email Me 👉 ✉️ kavyakola08@gmail.com For Collaboration/Project or Anything Else. 😊😊
+<h3 align="center">Engineering Student | Full Stack Learner 💻</h3>
 
-🔭 I’m currently working on: centralized digital student activity platform 
-🌱 I’m currently learning: Full stack development 
-👯 I’m looking to collaborate on:Full stack development 
-🤔 I’m looking for help with: Web devlopment
-💬 Ask me about: Collaboration, Tech Support
-📫 How to reach me: kavyakola08@gmail.com
-😄 Pronouns: Kavya 
-⚡ Fun fact: I Love Technology 
+---
+
+### 👩‍💻 About Me
+- 🎓 Studying Engineering  
+- 🌱 I’m currently learning **Full Stack Development**
+- 💡 Interested in **Web Development & Software**
+- 📫 Reach me: **yourmail@gmail.com**
+- ⚡ Fun fact: **I Love Technology ❤️**
+
+---
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
