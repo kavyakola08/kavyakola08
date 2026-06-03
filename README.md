@@ -8,7 +8,7 @@
 - 🎓 Studying Engineering  
 - 🌱 I’m currently learning **Full Stack Development**
 - 💡 Interested in **Web Development & Software**
-- 📫 Reach me: **yourmail@gmail.com**
+- 📫 Reach me: **kavyakola08@gmail.com**
 - ⚡ Fun fact: **I Love Technology ❤️**
 
 ---
