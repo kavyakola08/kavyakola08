@@ -1,44 +1,57 @@
-<h1 align="center">✨ Hi 👋, I'm Kavya Kola</h1>
+# ✨ Hi 👋, I'm Kavya Kola
 
-<h3 align="center">Engineering Student | Full Stack Learner 💻</h3>
+### 👩‍💻 Engineering Student | Full Stack Developer 🚀
 
----
+🌱 Currently learning **Full Stack Development (MERN)**
 
-### 👩‍💻 About Me
-- 🎓 Studying Engineering  
-- 🌱 I’m currently learning **Full Stack Development**
-- 💡 Interested in **Web Development & Software**
-- 📫 Reach me: **kavyakola08@gmail.com**
-- ⚡ Fun fact: **I Love Technology ❤️**
+💻 Passionate about Web Development & AI
 
----
+🎯 Goal: Become a Software Engineer
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+📫 Email: your-email@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+🌐 Portfolio: https://your-portfolio-link
+
+💼 LinkedIn: https://www.linkedin.com/in/kavya-kola-293363413
 
 ---
 
-### 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,python,mysql" />
+</p>
 
 ---
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kavyakola08&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kavyakola08&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavyakola08&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyakola08&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=kavyakola08&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyakola08&layout=compact&theme=tokyonight)
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kavyakola08&theme=onedark)
+
+---
+
+## 🚀 Featured Projects
+
+⭐ Navamind AI
+
+⭐ Portfolio Website
+
+⭐ Emergency Network
+
+⭐ Student Activity Platform
+
+---
+
+## 🤝 Connect With Me
+
+LinkedIn • GitHub • Portfolio
