@@ -1,57 +1,53 @@
-# ✨ Hi 👋, I'm Kavya Kola
+Create a modern, professional GitHub Profile README for a Computer Science Engineering student.
 
-### 👩‍💻 Engineering Student | Full Stack Developer 🚀
+Name: Kavya Kola
+Username: kavyakola08
 
-🌱 Currently learning **Full Stack Development (MERN)**
+Requirements:
 
-💻 Passionate about Web Development & AI
+- Attractive centered header with animated typing effect saying:
+  "Hi 👋 I'm Kavya Kola"
+  "CSE Student"
+  "Full Stack Developer"
+  "Learning AI & Web Development"
 
-🎯 Goal: Become a Software Engineer
+- Add a short introduction mentioning:
+  • Computer Science Engineering Student
+  • Passionate about Full Stack Development
+  • Learning JavaScript, React, Node.js, Express, MongoDB
+  • Interested in AI, Web Development, and Open Source
+  • Goal: Become a Software Engineer
 
-📫 Email: kavyakola08@gmail.com
+- Add a Tech Stack section using colorful badges:
+  HTML
+  CSS
+  JavaScript
+  React
+  Node.js
+  Express
+  MongoDB
+  Git
+  GitHub
+  VS Code
 
-🌐 Portfolio: https://kavyakola08.github.io/portfolio
+- Add GitHub Stats.
 
-💼 LinkedIn: https://www.linkedin.com/in/kavya-kola-293363413
+- Add GitHub Streak Stats.
 
----
+- Add Most Used Languages.
 
-## 🚀 Tech Stack
+- Add a Connect With Me section including:
+  GitHub: https://github.com/kavyakola08
+  LinkedIn: https://www.linkedin.com/in/kavya-kola-293363413
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,python,mysql" />
-</p>
+- Add a Projects section with:
+  🚑 Golden Hours
+  🌐 Portfolio Website (Coming Soon)
+  🤖 AI Projects (Coming Soon)
 
----
+- Add a quote:
+  "Code. Learn. Build. Repeat."
 
-## 📊 GitHub Stats
+- Use a clean dark theme with modern badges, icons, emojis, and centered layout.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavyakola08&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kavyakola08&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyakola08&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kavyakola08&theme=onedark)
-
----
-
-## 🚀 Featured Projects
-
-⭐ Navamind AI
-
-⭐ Portfolio Website
-
-⭐ Emergency Network
-
-⭐ Student Activity Platform
-
----
-
-## 🤝 Connect With Me
-
-LinkedIn • GitHub • Portfolio
+Return only the complete README.md markdown code.
