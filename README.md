@@ -8,9 +8,9 @@
 
 🎯 Goal: Become a Software Engineer
 
-📫 Email: your-email@gmail.com
+📫 Email: kavyakola08@gmail.com
 
-🌐 Portfolio: https://your-portfolio-link
+🌐 Portfolio: 
 
 💼 LinkedIn: https://www.linkedin.com/in/kavya-kola-293363413
 
