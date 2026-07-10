@@ -10,7 +10,7 @@
 
 📫 Email: kavyakola08@gmail.com
 
-🌐 Portfolio: 
+🌐 Portfolio: https://kavyakola08.github.io/portfolio
 
 💼 LinkedIn: https://www.linkedin.com/in/kavya-kola-293363413
 
