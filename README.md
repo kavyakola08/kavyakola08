@@ -1,4 +1,4 @@
-Create a modern, professional GitHub Profile README for a Computer Science Engineering student.
+
 
 Name: Kavya Kola
 Username: kavyakola08
