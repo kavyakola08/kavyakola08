@@ -4,7 +4,7 @@ Name: Kavya Kola
 Username: kavyakola08
 
 Theme:
-Build a futuristic AI + Full Stack Developer profile with a premium dark theme (black, blue, purple), clean layout, smooth animations, modern badges, glowing dividers, and professional icons. Make it look different from common GitHub profiles..
+Build a futuristic AI + Full Stack Developer profile with a premium dark theme (black, blue, purple), clean layout, smooth animations, modern badges, glowing dividers, and professional icons. Make it look different from common GitHub profiles.
 
 Requirements:
 
